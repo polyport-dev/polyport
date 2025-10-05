@@ -165,7 +165,7 @@ Our team consists of experienced developers and traders from leading DeFi protoc
 
 - **Website**: [polyport.app](https://polyport.app)
 - **Email**: ops@polyport.app
-- **Twitter**: [@PolyPortMarkets](https://twitter.com/polyportmarkets)
+- **Twitter/X**: [@polyport_mart](https://x.com/polyport_mart)
 - **Discord**: [Join our community](https://discord.gg/polyport)
 
 For partnership inquiries, integration support, or investment opportunities, please reach out to ops@polyport.app.

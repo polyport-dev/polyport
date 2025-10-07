@@ -192,7 +192,7 @@ Current version (v0.1.0):
 ## Future Upgrades (v0.3.0 - Q1 2026)
 - Cross-chain bridges via Wormhole
 - Advanced order types (limit, stop-loss)
-- Governance token ($PORT) integration
+- Governance token ($POLYPORT) integration
 - On-chain DAO voting
 
 ## License

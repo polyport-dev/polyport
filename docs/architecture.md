@@ -204,7 +204,7 @@ GitHub → Actions → Tests → Build → Deploy
 ## Upcoming (Q1 2026)
 - Full Meteora YES/wSOL + NO/wSOL pools
 - Complete Jupiter integration 
-- Governance token ($PORT) launch
+- Governance token ($POLYPORT) launch
 - Cross-chain bridges (Ethereum, Base)
 - Institutional trading API
 

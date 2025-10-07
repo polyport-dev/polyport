@@ -179,15 +179,16 @@ GitHub → Actions → Tests → Build → Deploy
 
 ## Future Enhancements
 
-### Phase 2 (Q1 2025)
-- Cross-chain bridges (Ethereum, Polygon)
-- Advanced order types (limit, stop-loss)
-- Liquidity pools and yield farming
+### Phase 2 (Q4 2025 - Current)
+- Cross-chain bridges (Ethereum, Polygon) - In Development
+- Advanced order types (limit, stop-loss) - Beta Testing
+- Liquidity pools and yield farming - Launching Soon
 
-### Phase 3 (Q2 2025)
+### Phase 3 (Q1 2026)
 - Layer 2 scaling solutions
 - Decentralized governance (DAO)
 - Mobile native applications
+- Institutional trading features
 
 ## Technical Decisions
 

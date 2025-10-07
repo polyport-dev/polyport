@@ -104,9 +104,9 @@ const sdk = new PolyPortSDK({
 
 // Create a binary prediction market
 const market = await sdk.createMarket({
-  title: "Will BTC reach $100k by Dec 2024?",
+  title: "Will BTC reach $200k by Dec 2025?",
   marketType: 'BINARY',
-  cutoffTime: new Date('2024-12-31'),
+  cutoffTime: new Date('2025-12-31'),
   resolutionSource: 'PYTH_ORACLE',
   initialLiquidity: 1000 // in SOL
 });
@@ -131,6 +131,32 @@ const position = await sdk.buyShares({
 - **Entertainment** - Award shows, box office performance
 - **Crypto Markets** - Token prices, protocol metrics, DeFi yields
 
+## 🗺 Roadmap
+
+### Q2 2025 (Completed)
+- [x] Devnet deployment
+- [x] Solana Actions integration
+- [x] Pyth oracle integration
+- [x] Mobile app beta
+
+### Q3 2025 (Completed)
+- [x] Mainnet launch
+- [x] Advanced market types
+- [x] Initial liquidity mining program  
+- [x] Security audit completion
+
+### Q4 2025 (Current - In Progress)
+- [x] 150+ live markets achieved
+- [x] $2.8M TVL milestone
+- [ ] Cross-chain bridges (80% complete)
+- [ ] Governance token launch (December 2025)
+- [ ] Institutional trading features (Beta)
+
+### Q1 2026 (Upcoming)
+- [ ] Layer 2 scaling solutions
+- [ ] Advanced analytics dashboard
+- [ ] Global market expansion
+- [ ] Decentralized governance DAO
 
 ## 👥 Team
 

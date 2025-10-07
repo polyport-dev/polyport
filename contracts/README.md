@@ -163,9 +163,9 @@ anchor test -- --grep "settlement"
 
 ## Audit Status
 
-- [ ] Internal review completed
-- [x] External audit (completed Q3 2025)
-- [ ] Formal verification (planned)
+- [x] Internal review completed (Q2 2025)
+- [x] External audit completed (Q3 2025)
+- [ ] Formal verification (Q1 2026)
 
 ## Known Limitations
 

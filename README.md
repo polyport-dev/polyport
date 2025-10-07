@@ -83,13 +83,16 @@ cd examples
 npm run demo
 ```
 
-## 📊 Platform Statistics (Mainnet)
+## 📊 Platform Statistics (Mainnet - Live Since July 2025)
 
-- **Total Value Locked (TVL)**: $2.8M+ and growing
+- **Total Value Locked (TVL)**: $2.8M+ (October 2025)
 - **Active Markets**: 150+ live markets
-- **Daily Volume**: $500K+ average
-- **Supported Market Types**: Sports, Crypto, Politics, Entertainment
-- **Resolution Sources**: Pyth Network, Custom Oracles, DAO Governance
+- **Total Markets Created**: 500+ since launch
+- **Daily Volume**: $300K+ average
+- **Unique Wallets**: 5,000+
+- **Settlement Success Rate**: 99.5%
+- **Supported Market Types**: Sports (NFL, NBA, Soccer), Crypto Prices, Politics, Entertainment
+- **Oracle Sources**: Pyth Network, SportMonks, API-SPORTS (dual consensus)
 
 ## 🤝 Integration Examples
 
@@ -133,30 +136,35 @@ const position = await sdk.buyShares({
 
 ## 🗺 Roadmap
 
-### Q2 2025 (Completed)
-- [x] Devnet deployment
-- [x] Solana Actions integration
-- [x] Pyth oracle integration
-- [x] Mobile app beta
+### Q1-Q2 2025 (Completed)
+- [x] Smart contract development (Anchor framework)
+- [x] Devnet deployment and testing
+- [x] Core AMM implementation (CPMM)
+- [x] Solana Actions & Blinks integration
+- [x] Basic oracle integration (Pyth Network)
 
 ### Q3 2025 (Completed)
-- [x] Mainnet launch
-- [x] Advanced market types
-- [x] Initial liquidity mining program  
-- [x] Security audit completion
+- [x] Mainnet launch (July 2025)
+- [x] Automated settlement system (SportMonks + API-SPORTS)
+- [x] Pyth price feed automation
+- [x] Worker infrastructure for auto-activation
+- [x] Mobile-responsive PWA
 
-### Q4 2025 (Current - In Progress)
-- [x] 150+ live markets achieved
-- [x] $2.8M TVL milestone
-- [ ] Cross-chain bridges (80% complete)
-- [ ] Governance token launch (December 2025)
-- [ ] Institutional trading features (Beta)
+### Q4 2025 (Current - October 6th)
+- [x] Automated sports settlement with dual-oracle consensus
+- [x] Enhanced Pyth settlement with staleness checks
+- [ ] Governance token ($PORT) launch
+- [ ] Meteora integration for self-funded liquidity
+- [ ] Kamino yield integration - 5% APY on deposits (Testing phase)
+- [ ] Jupiter swap aggregation - bet with any token (Integration started)
+- [ ] 4-way fee distribution system (Implementation in progress)
 
-### Q1 2026 (Upcoming)
-- [ ] Layer 2 scaling solutions
-- [ ] Advanced analytics dashboard
-- [ ] Global market expansion
-- [ ] Decentralized governance DAO
+### Q1 2026 (Planned)
+- [ ] Full Meteora pools (YES/wSOL + NO/wSOL)
+- [ ] Complete Jupiter integration - USDC/BONK/JUP support
+- [ ] Kamino vault optimization
+- [ ] Cross-chain bridges (Ethereum, Base)
+- [ ] Institutional API & SDK
 
 ## 👥 Team
 

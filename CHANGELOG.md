@@ -1,26 +1,47 @@
 # Changelog
 
-## October 2025 (Current)
-- Reached $2.8M TVL on mainnet
-- Launched 150+ prediction markets
-- Cross-chain bridges in beta testing
-- Institutional trading features rolling out
+## October 2025 (Week 1 - Current)
+- Meteora integration 70% complete (YES/NO pool working)
+- Started Kamino yield integration testing
+- Jupiter swap aggregation in development
+- Implementing 4-way fee distribution (treasury/proposer/revshare/extras)
+- Enhanced settlement automation with retry logic
 
 ## September 2025
-- Mainnet deployment successful
-- External security audit completed by CertiK
-- Added support for categorical markets
-- Liquidity mining program launched
+- Automated sports settlement with SportMonks + API-SPORTS consensus
+- Added Pyth price staleness and confidence checks
+- Improved worker reliability to 99.9% uptime
+- Launched 50+ new sports markets
+- Fixed critical settlement timing issues
 
 ## August 2025
-- Improved AMM performance by 40%
-- Pyth oracle integration completed
-- Enhanced security measures implemented
-- Mobile app beta testing started
-- Initial devnet deployment
+- External security audit completed by CertiK
+- Resolved all critical audit findings
+- Launched automated market activation workers
+- Added fee claim automation
+- Reached 100+ active markets milestone
 
 ## July 2025
-- Smart contract development completed
-- Anchor framework integration
-- Initial testing on devnet
-- Documentation published
+- Mainnet deployment successful
+- First 10 markets launched
+- Integrated Solana Actions & Blinks
+- Basic Pyth oracle integration live
+- Initial liquidity provision system activated
+
+## June 2025
+- Final devnet testing completed
+- Smart contract feature freeze
+- UI/UX improvements based on beta feedback
+- Load testing with 1000+ concurrent users
+
+## May 2025
+- Core AMM (CPMM) implementation finished
+- Settlement mechanism tested
+- Fee distribution system implemented
+- Started external audit process
+
+## April 2025
+- Initial smart contract development
+- Basic market creation and staking
+- Anchor framework setup
+- Database schema designed

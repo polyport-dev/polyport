@@ -175,19 +175,25 @@ Current version (v0.1.0):
 - Creator-based settlement
 - Fixed fee structure
 
-## Future Upgrades
+## Current Development (v0.2.0 - Q4 2025)
 
-### v0.2.0 (Q4 2025)
-- Multi-oracle consensus
-- Categorical markets
-- DAO-based settlement
-- Dynamic fee tiers
+### In Progress
+- Meteora pool integration (CPI for liquidity provision)
+- Kamino vault integration (yield generation)
+- Jupiter swap routes (multi-token support)
+- Enhanced fee distribution (4-way split)
 
-### v0.3.0 (Q1 2026)
-- Cross-chain bridges
-- Limit orders
-- Liquidity mining
-- Governance token
+### Completed Features
+- Multi-oracle consensus (SportMonks + API-SPORTS)
+- Automated settlement with retry logic
+- Pyth price feed with staleness checks
+- Worker automation system
+
+## Future Upgrades (v0.3.0 - Q1 2026)
+- Cross-chain bridges via Wormhole
+- Advanced order types (limit, stop-loss)
+- Governance token ($PORT) integration
+- On-chain DAO voting
 
 ## License
 

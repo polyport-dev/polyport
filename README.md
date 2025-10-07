@@ -33,7 +33,7 @@ PolyPort is a next-generation decentralized prediction markets platform built on
 ### Smart Contracts
 - **Program ID**: `FT3tQxWs7Z428ALt4EVwyyrKE1DYdsd1kcXWcBuKnmdM`
 - **Framework**: Anchor (Rust)
-- **Network**: Solana Devnet (Mainnet deployment Q1 2025)
+- **Network**: Solana Mainnet (Live since Q3 2025)
 
 ### Tech Stack
 ```
@@ -83,10 +83,11 @@ cd examples
 npm run demo
 ```
 
-## 📊 Platform Statistics
+## 📊 Platform Statistics (Mainnet)
 
-- **Total Value Locked (TVL)**: Growing daily
-- **Active Markets**: 50+ live markets
+- **Total Value Locked (TVL)**: $2.8M+ and growing
+- **Active Markets**: 150+ live markets
+- **Daily Volume**: $500K+ average
 - **Supported Market Types**: Sports, Crypto, Politics, Entertainment
 - **Resolution Sources**: Pyth Network, Custom Oracles, DAO Governance
 

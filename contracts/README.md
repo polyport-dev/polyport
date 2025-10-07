@@ -5,7 +5,8 @@
 The PolyPort smart contracts are built using the Anchor framework on Solana, providing a secure and efficient prediction markets protocol.
 
 ## Program ID
-- **Devnet/Mainnet**: `FT3tQxWs7Z428ALt4EVwyyrKE1DYdsd1kcXWcBuKnmdM`
+- **Mainnet**: `FT3tQxWs7Z428ALt4EVwyyrKE1DYdsd1kcXWcBuKnmdM` (Live)
+- **Devnet**: `FT3tQxWs7Z428ALt4EVwyyrKE1DYdsd1kcXWcBuKnmdM` (Testing)
 
 ## Core Components
 

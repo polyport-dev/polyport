@@ -3,7 +3,7 @@
 ## Base URL
 
 ```
-Production: https://api.polyport.app
+Production: https://api.polyport.app (Live)
 Development: https://api-dev.polyport.app
 ```
 

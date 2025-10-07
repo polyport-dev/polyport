@@ -153,7 +153,7 @@ const position = await sdk.buyShares({
 ### Q4 2025 (Current - October 6th)
 - [x] Automated sports settlement with dual-oracle consensus
 - [x] Enhanced Pyth settlement with staleness checks
-- [ ] Governance token ($PORT) launch
+- [ ] Governance token ($POLYPORT) launch
 - [ ] Meteora integration for self-funded liquidity
 - [ ] Kamino yield integration - 5% APY on deposits (Testing phase)
 - [ ] Jupiter swap aggregation - bet with any token (Integration started)

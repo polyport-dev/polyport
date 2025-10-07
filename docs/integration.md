@@ -296,7 +296,7 @@ const testMarket = await devnetSdk.createTestMarket({
 ## Support
 
 - Documentation: [docs.polyport.app](https://docs.polyport.app)
-- Discord: [discord.gg/polyport](https://discord.gg/polyport)
+- Telegram: [t.me/polyport_mart](https://t.me/polyport_mart)
 - Email: developers@polyport.app
 
 ---

@@ -49,7 +49,7 @@ Backend Services:
 └── Pyth Network (Price feeds)
 
 Frontend:
-├── Next.js 14 (React framework)
+├── Next.js 15 (React framework)
 ├── TailwindCSS (Styling)
 ├── Wallet Adapter (Wallet integration)
 └── SWR (Data fetching)
@@ -65,7 +65,7 @@ Frontend:
 ## 🔧 Quick Start
 
 ### Prerequisites
-- Node.js 18+ 
+- Node.js 18+
 - Solana CLI tools
 - Rust 1.70+ (for smart contract development)
 
@@ -125,37 +125,11 @@ const position = await sdk.buyShares({
 ## 🎯 Use Cases
 
 - **Sports Betting** - Predict game outcomes, player performance
-- **Financial Markets** - Trade on price movements, economic indicators  
+- **Financial Markets** - Trade on price movements, economic indicators
 - **Political Events** - Elections, policy decisions, geopolitical events
 - **Entertainment** - Award shows, box office performance
 - **Crypto Markets** - Token prices, protocol metrics, DeFi yields
 
-## 🔐 Security
-
-- Smart contracts audited by leading security firms
-- Bug bounty program with Immunefi
-- Formal verification of critical components
-- Regular security assessments and updates
-
-## 🗺 Roadmap
-
-### Q2 2025
-- [x] Devnet deployment
-- [x] Solana Actions integration
-- [x] Pyth oracle integration
-- [x] Mobile app beta
-
-### Q3 2025
-- [x] Mainnet launch
-- [ ] Cross-chain bridges
-- [ ] Advanced market types
-- [ ] Governance token launch
-
-### Q4 2025
-- [ ] Layer 2 scaling solutions
-- [ ] Institutional trading features
-- [ ] Advanced analytics dashboard
-- [ ] Global market expansion
 
 ## 👥 Team
 
@@ -166,7 +140,7 @@ Our team consists of experienced developers and traders from leading DeFi protoc
 - **Website**: [polyport.app](https://polyport.app)
 - **Email**: ops@polyport.app
 - **Twitter/X**: [@polyport_mart](https://x.com/polyport_mart)
-- **Discord**: [Join our community](https://discord.gg/polyport)
+- **Telegram**: [Join our community](https://t.me/polyport_mart)
 
 For partnership inquiries, integration support, or investment opportunities, please reach out to ops@polyport.app.
 

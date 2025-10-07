@@ -83,16 +83,6 @@ cd examples
 npm run demo
 ```
 
-## 📊 Platform Statistics (Mainnet - Live Since July 2025)
-
-- **Total Value Locked (TVL)**: $2.8M+ (October 2025)
-- **Active Markets**: 150+ live markets
-- **Total Markets Created**: 500+ since launch
-- **Daily Volume**: $300K+ average
-- **Unique Wallets**: 5,000+
-- **Settlement Success Rate**: 99.5%
-- **Supported Market Types**: Sports (NFL, NBA, Soccer), Crypto Prices, Politics, Entertainment
-- **Oracle Sources**: Pyth Network, SportMonks, API-SPORTS (dual consensus)
 
 ## 🤝 Integration Examples
 
